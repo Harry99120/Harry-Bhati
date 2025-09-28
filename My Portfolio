@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harmeet Bhati</title>
+</head>
+<body>
+  <header>
+        <hr>
+    <marquee><h1><big><strong>Welcome to My Portfolio</strong></big></h1></marquee>
+    <hr>
+    </header>
+    <main>
+       <br>
+        <h2><strong>About Me:</strong></h2>
+<article>
+<br>
+<img src="/photo.html/AN_PHOTO.jpeg" alt="Me"/>          
+<p>Hello, I'm <b>Harmeet Bhati</b> . I am a student and currently study <strong>B.Tech CSE(Core)</strong> at k.R Mangalam University who loves learning new things and buildes small projects using HTML. I'm passionate about technology and  Always curious and ready to take on new challenges!
+</p>
+</article>
+ <h2>Hobbie:</h2>
+ <article>
+    <ul>
+<li>Photography</li>
+<li>Solving puzzles or brain teasers</li>
+<li>Coding or programming</li>
+<li>Doing Exploration with new Things</li>
+<li>Traveling or exploring cultures</li>
+<li>Watching Movies</li> 
+      </ul>
+ </article>
+ <h2><strong>Qualification:</strong></h2>
+ <article>
+    <ul>
+        <li>Class 10th Marks</li>
+        <table border="1" cellspacing="1">
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Marks</th>
+            </tr>
+            </thead>
+            <tbody>
+               <tr>
+<td>Science</td>
+                <td>78</td>
+            </tr>
+            <tr>
+                <td>Math</td>
+                <td>90</td>
+            </tr>
+            <tr>
+                <td>Social Science</td>
+                <td>91</td>
+            </tr>
+            <tr>
+                <td>Hindi</td>
+                <td>89</td>
+            </tr>
+            <tr>
+                <td>English</td>
+                <td>90</td>
+            </tr>
+            </tbody>
+        </table>
+        <br>
+<li>Class 12th Marks</li>
+<table border="1" cellspacing="1" >
+    <thead>
+            <tr>
+                <th>Name</th>
+                <th>Marks</th>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>Physics</td>
+                <td>65</td>
+            </tr>
+            <tr>
+                <td>Chemistry</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <td>Maths</td>
+                <td>75</td>
+            </tr>
+            <tr>
+                <td>English</td>
+                <td>77</td>
+            </tr>
+            <tr>
+                <td>/Computer Science </td>
+                <td>75</td>
+            </tr>
+    </tbody>
+        </table>
+ </ul>
+ </article>
+ </main>
+    <footer>
+       <hr> 
+<a href ="https://www.instagram.com/harmeet__bhati?igsh=MW1xaWp6ejYwbmU2MQ=="" target ="_blank"><img src="https://sl.bing.net/c1jInBKDooS" alt="Instagram" height="50px"/></a>
+<a href="https://www.snapchat.com/add/harmeetbhati99?share_id=U6hPwQlSNVQ&locale=en-IN" target ="_blank"><img src ="https://sl.bing.net/fpll1jNuTS0" alt = "Snapchat" height="50px"/></a>
+<a href = "www.linkedin.com/in/ʜᴀʀᴍᴇᴇᴛ-ʙʜᴀᴛɪ-b15252382" target ="_blank"><img src="https://sl.bing.net/jnohThX4XqS" alt="linkdin" height="50px"/></a>
+    
+</footer>
+</body>
+</html> 
