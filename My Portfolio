@@ -16,7 +16,7 @@
         <h2><strong>About Me:</strong></h2>
 <article>
 <br>
-<img src="/photo.html/AN_PHOTO.jpeg" alt="Me"/>          
+<img src="C:\Users\91981\Desktop\Web Development\IMG_20250928_205419.jpg" height = "200" widht = "100" alt="Me" />          
 <p>Hello, I'm <b>Harmeet Bhati</b> . I am a student and currently study <strong>B.Tech CSE(Core)</strong> at k.R Mangalam University who loves learning new things and buildes small projects using HTML. I'm passionate about technology and  Always curious and ready to take on new challenges!
 </p>
 </article>
